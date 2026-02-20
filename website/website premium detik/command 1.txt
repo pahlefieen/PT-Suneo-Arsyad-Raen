@@ -1,0 +1,53 @@
+saya pengen website index.html
+
+Sudah termasuk:
+
+✅ Thema seperti detik.com
+✅ Daftar Harga
+✅ Staf dan Karyawan
+✅ Wilayah Jualan
+✅ Tentang Perusahaan
+✅ Visi Misi dan Profile Company
+✅ Alamat Lengkap
+✅ Google Maps Embed
+✅ Kontak Lengkap (WA, Telepon, Email)
+✅ Footer Proper
+✅ Scroll Animation
+✅ Menu Navigation
+✅ Jenis Layanan
+
+Kontak Lengkap (WA, Telepon, Email)
+nama : PT SULSEL LAYANAN INTERNET
+alamat : Perumahan Lata Residence Blok. H No. 10, Desa/Kelurahan Lalebata, Kec. Panca Rijang, Kab. Sidenreng Rappang, Provinsi Sulawesi Selatan
+Telpon: 082187706687
+email : admin@sulselnet.id
+
+Visi Misi dan Profile Company
+random saja, buatkan kalimat terbaru 2026
+
+Footer Proper
+PT SULSEL LAYANAN INTERNET
+
+Coverage / Wilayah Jualan
+random saja, sebutkan beberapa kecamatan random di Kab. Sidenreng Rappang
+
+Menu Navigation
+Ada Home | Tentang | Profile Company | Kontak 
+
+Google Maps Embed
+Mengikuti data alamat, kamu cari sendiri di google maps ya.
+
+Jenis Layanan
+Ada VPN, CCTV, Hosting, Cloud
+
+Daftar Harga
+Harga random ya, mulai 10 Mbps, 50 Mbps, 100 Mbps
+
+Tentang Perusahaan
+Ceritakan tentang wilayah yang saya sebutkan di alamat, mulai dari kultur, budaya, dan kebiasaan daerah tersebut.
+
+Staf dan Karyawan
+Ada beberapa Customer Service, Help Desk, NOC, beri juga image dari posisi jabatan tersebut, dengan generate wajah ganteng, cewe cantik, saya pengen muka nya tipe Indonesia, jangan orang barat
+
+
+

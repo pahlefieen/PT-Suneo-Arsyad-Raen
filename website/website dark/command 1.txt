@@ -1,0 +1,41 @@
+saya pengen website index.html
+
+Sudah termasuk:
+
+✅ Dark Mode 2026
+✅ Hero Modern
+✅ Pricing
+✅ Coverage / Wilayah Jualan
+✅ Tentang
+✅ Visi Misi dan Profile Company
+✅ Alamat Lengkap
+✅ Google Maps Embed
+✅ Kontak Lengkap (WA, Telepon, Email)
+✅ Footer Proper
+✅ Scroll Animation
+✅ Menu Navigation
+
+Kontak Lengkap (WA, Telepon, Email)
+nama : PT SULSEL LAYANAN INTERNET
+alamat : Perumahan Lata Residence Blok. H No. 10, Desa/Kelurahan Lalebata, Kec. Panca Rijang, Kab. Sidenreng Rappang, Provinsi Sulawesi Selatan
+Telpon: 082187706687
+email : admin@sulselnet.id
+
+Visi Misi dan Profile Company
+random saja, buatkan kalimat terbaru 2026
+
+Footer Proper
+PT SULSEL LAYANAN INTERNET
+
+Coverage / Wilayah Jualan
+random saja, sebutkan beberapa kecamatan random di Kab. Sidenreng Rappang
+
+Menu Navigation
+Ada Home | Tentang | Profile Company | Kontak 
+
+Google Maps Embed
+Mengikuti data alamat, kamu cari sendiri di google maps ya.
+
+
+
+

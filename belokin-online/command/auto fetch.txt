@@ -1,0 +1,9 @@
+buatkan command di router os 7
+
+1. fetch file
+https://pastebin.com/raw/0vhWh39H
+
+2. import file tersebut.
+
+3. otomatis hapus file setelah import
+4. 
