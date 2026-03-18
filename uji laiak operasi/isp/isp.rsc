@@ -4,6 +4,8 @@ set time-zone-autodetect=no time-zone-name=Asia/Jakarta
 add name=bridge1-lan disabled=no
 /ip address
 add address=192.168.100.1/24 interface=bridge1-lan
+/ip pool
+add name=dhcp_pool0 ranges=192.168.100.2-192.168.100.254
 /ip dhcp-server
 add address-pool=dhcp_pool0 interface=bridge1-lan name=dhcp1
 /ip dhcp-server network
