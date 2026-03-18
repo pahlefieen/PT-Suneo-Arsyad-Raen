@@ -1,5 +1,7 @@
 /system clock
 set time-zone-autodetect=no time-zone-name=Asia/Jakarta
+/interface bridge
+add name=bridge1-lan disabled=no
 /ip address
 add address=192.168.100.1/24 interface=bridge1-lan
 /ip dhcp-server
@@ -14,5 +16,7 @@ add disabled=no dst-address=0.0.0.0/0 gateway=144.79.240.41
 set name=Router-Distribusi
 /ip firewall nat
 add action=masquerade chain=srcnat out-interface=ether1
+
+
 
 
